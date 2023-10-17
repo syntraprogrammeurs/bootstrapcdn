@@ -1,0 +1,32 @@
+@font-face {
+    font-family:'mpr';
+    src:url('../webfonts/MYRIADPRO-REGULAR.woff');
+}
+nav{
+    font-family: mpr;
+}
+.navbar-brand{
+    font-size:42.35px;
+}
+nav ul a{
+    font-size:20.35px;
+    color:#515f67;
+}
+#myarticles h3{
+    font-size:20.35px;
+    color:#5094f2;
+}
+#myarticles p{
+    font-size:14.35px;
+    font-family:mpr;
+    color:#909090;
+}
+.mt-6{
+    margin-top:29px;
+}
+.cc{
+    position:absolute;
+    right:10%;
+    bottom:35%;
+
+}
